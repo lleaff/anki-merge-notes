@@ -3,5 +3,6 @@
  "When identical keep a single field": true,
  "Keyboard shortcut": "Ctrl+M",
  "Overwrite patterns": [],
+ "Strong tags": [],
  "Weak tags": []
 }
